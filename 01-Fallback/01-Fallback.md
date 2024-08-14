@@ -84,12 +84,12 @@ contract Fallback {
 Remix上面可以直接复制代码，compile源文件，然后
 
 - 在Environment中选择Inject Provider - Metamask
-    
-    ![image.png](1-Fallback/image2.png)
+  
+    ![image.png](01-Fallback/image2.png)
     
 - 然后在at address中输入目标instance即可（代码需要一致）
-    
-    ![image.png](1-Fallback/image1.png)
+  
+    ![image.png](01-Fallback/image1.png)
     
 - 之后可以直接通过点击接口来调用api
 - Low Level Call可以直接在最下面调取，不放入data就是发送eth，不调用任何函数

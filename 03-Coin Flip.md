@@ -85,7 +85,7 @@ contract AttackCoinFlip{
 }
 ```
 
-![image.png](03-Coin%20Flip/image.png)
+![image.png](images/03-image.png)
 
 # 小白的思考
 

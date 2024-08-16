@@ -56,7 +56,7 @@ contract Fallout {
 
 1. 直接在console调用这个函数即可，然后就可以完成任务
    
-    ![image](02-Fallout/image.png)
+    ![image](images/02-image.png)
     
 2. 掌握一下写代码的思路，直接写`interface`即可，然后部署之后直接用Remix的`At Address`对其进行互动，和在console里面输入上面方法是一样的
    
